@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Insights</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Apr 2024 12:15:37 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Essentials</title>
+      <link>http://localhost:1313/posts/linux-essentials/</link>
+      <pubDate>Wed, 24 Apr 2024 12:15:37 +0530</pubDate>
+      <guid>http://localhost:1313/posts/linux-essentials/</guid>
+      <description>Demystifying Linux and Bash Scripting: A Comprehensive Guide for Cybersecurity Professionals In the ever-evolving realm of cybersecurity, mastering essential skills like Linux and Bash scripting is paramount for success. These powerful tools empower professionals to automate tasks, enhance system administration, and develop custom solutions for a wide range of security challenges. This comprehensive guide delves into the intricacies of Linux and Bash scripting, providing a solid foundation for cybersecurity professionals to build upon.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Welcome to My Digital Wonderland Welcome to my corner of the digital world, where the bytes dance and the code whispers secrets! With just enough savvy to navigate the cyber circus, I plunge into the neon maze with a sparkle in my eye and a dash of mischief in my stride. But let’s not get lost in the binary symphony! Join me on a whimsical adventure through the circuitry carnival, where each line of code holds a tale and every byte hides a clue.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Let&amp;rsquo;s Connect! You can find me on GitHub: https://github.com/3rd3ye&#xA;Feel free to coonect on linkedin: https://www.linkedin.com/in/3rd3ye/</description>
+    </item>
+  </channel>
+</rss>

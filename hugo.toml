@@ -1,0 +1,60 @@
+baseURL = 'https://3rd3YE.github.io/'
+languageCode = 'en-us'
+title = 'Insights'
+theme = 'paper'
+disqusShortname = 'blog'   # use disqus comments
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  #twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
+  github = 'https://github.com/3rd3ye'                 # github.com/YOUR_GITHUB_ID
+  #instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
+  linkedin = 'https://www.linkedin.com/in/3rd3ye/'             # linkedin.com/in/YOUR_LINKEDIN_ID
+ # mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+  #threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
+ # rss = true                                # show rss icon
+
+  # home page profile
+   avatar = '/logo.png'                 # gravatar email or image url
+  name = '3rd3YE'
+  bio = 'Wandering around the forest full of snakes :>'
+# -----------------------------------------------------------------
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "Contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  disablePostNavigation = true              # disable post navigation
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  #gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  math = true                               # enable KaTeX math typesetting globally
+  #graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+
+  # giscus
+[params.giscus]
+ # repo = 'YOUR_GISCUS_REPO'                 # see https://giscus.app for more details
+  #repoId = 'YOUR_GISCUS_REPO_ID'
+  #category = 'YOUR__GISCUS_CATEGORY'
+ # categoryId = 'YOUR_GISCUS_CATEGORY_ID'
+  #mapping = 'pathname'
+ # theme = 'paper'
