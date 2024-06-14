@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Apr 2024 12:15:37 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 01:40:37 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fileless Malware</title>
+      <link>http://localhost:1313/posts/filess-malware/</link>
+      <pubDate>Fri, 14 Jun 2024 01:40:37 +0530</pubDate>
+      <guid>http://localhost:1313/posts/filess-malware/</guid>
+      <description>Fileless Malware: A Hidden Menace in Cybersecurity Hey there, cyber enthusiasts! Today, let&amp;rsquo;s dive into one of the most elusive and sophisticated threats in the cybersecurity world: fileless malware. Imagine a burglar sneaking into your home without breaking any windows or doors—fileless malware does something similar in the digital realm. It bypasses traditional defenses by avoiding files altogether, making it a stealthy adversary for defenders.&#xA;What is Fileless Malware? In simple terms, fileless malware skips the usual step of installing malicious files on your system.</description>
+    </item>
     <item>
       <title>Linux Essentials</title>
       <link>http://localhost:1313/posts/linux-essentials/</link>
